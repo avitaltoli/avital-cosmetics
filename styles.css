@@ -72,6 +72,10 @@ p {
     margin-bottom: var(--spacing-md);
 }
 
+a {
+    text-decoration: none; /* Removes the underline */
+}
+
 /* Layout */
 .container {
     max-width: var(--container-width);
